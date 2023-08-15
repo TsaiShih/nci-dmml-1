@@ -32,9 +32,9 @@ the Russia real estate market?
 
 ##Models selection
 
-Linear regression - beer_1
-Linear regression - melb
-Ridge regression - melb
-K-Nearest Neighbors models - melb
-Decision tree models - estate data
-Naive Bayes model - estate data
+*Linear regression - beer_1
+*Linear regression - melb
+*Ridge regression - melb
+*K-Nearest Neighbors models - melb
+*Decision tree models - estate data
+*Naive Bayes model - estate data
