@@ -7,7 +7,7 @@ this project which I have learned from my first R coding and the data analytics 
 
 Selection -> Preprocessing -> Transformation -> Data Mining -> Interpretation / Evaluation
 
-##Datasets
+## Datasets
 
 There are three datasets I used from Kaggle and the link below:
 
@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market?select=Melb
 3. Russia Real Estate 2018-2021 (estate)
 https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-20182021
 
-##Questions
+## Questions
 1. Which factor is the most influences the beer review score?
 
 2. Is the house price predictable in the Melbourne house
@@ -32,7 +32,7 @@ market?
 4. How to distinguish the target house price is high or low in
 the Russia real estate market?
 
-##Models selection
+## Models selection
 
 - Linear regression - beer_1
 - Linear regression - melb
