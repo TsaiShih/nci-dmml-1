@@ -1,7 +1,9 @@
 # nci-dmml-1
 The data mining and machine learning model 1 personal project in National college of Ireland (R coding)
 
-## About this project which I have learned from my first R coding and the data analytics process follows KDD which is Knowledge Discovery in Databases.
+## About 
+
+this project which I have learned from my first R coding and the data analytics process follows KDD which is Knowledge Discovery in Databases.
 
 Selection -> Preprocessing -> Transformation -> Data Mining -> Interpretation / Evaluation
 
@@ -32,9 +34,9 @@ the Russia real estate market?
 
 ##Models selection
 
-*Linear regression - beer_1
-*Linear regression - melb
-*Ridge regression - melb
-*K-Nearest Neighbors models - melb
-*Decision tree models - estate data
-*Naive Bayes model - estate data
+- Linear regression - beer_1
+- Linear regression - melb
+- Ridge regression - melb
+- K-Nearest Neighbors models - melb
+- Decision tree models - estate data
+- Naive Bayes model - estate data
