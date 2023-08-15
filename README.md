@@ -1,15 +1,14 @@
 # nci-dmml-1
-The data mining and machine learning model 1 personal project in National college of Ireland (R coding)
+I completed a personal project on data mining and machine learning model 1 using R coding at the National College of Ireland
 
 ## About 
 
-this project which I have learned from my first R coding and the data analytics process follows KDD which is Knowledge Discovery in Databases.
-
-Selection -> Preprocessing -> Transformation -> Data Mining -> Interpretation / Evaluation
+This project, which marked my initial foray into R coding, focused on data mining and machine learning model 1. 
+It followed the KDD (Knowledge Discovery in Databases) process, encompassing stages such as Selection, Preprocessing, Transformation, Data Mining, and Interpretation/Evaluation.
 
 ## Datasets
 
-There are three datasets I used from Kaggle and the link below:
+I utilized three datasets from Kaggle for this project, each serving a specific purpose. The datasets are as follows:
 
 1. Beer Data Analystics (beer_1)
 https://www.kaggle.com/gauravharamkar/beer-data-analytics
