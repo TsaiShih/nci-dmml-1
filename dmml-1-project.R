@@ -11,7 +11,7 @@ library(e1071) # naiveBayes() function
 #get the filepath
 getwd()
 #set filepath
-setwd("C:/Users/fish7/Desktop/MSCDAD_B_21101825")
+setwd("D:/dmml-1-project")
 
 #---------beer_1 data------------
 #read csv file
